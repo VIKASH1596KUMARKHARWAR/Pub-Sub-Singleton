@@ -1,0 +1,7 @@
+state-full backend and singleton Pattern + Pub Subs 
+
+//introducing the dummy like chess game in-memory(statefull backend)
+
+
+//introducing the singleton Pattern on the top of classes
+//to manage the state in backend
